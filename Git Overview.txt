@@ -1,0 +1,4 @@
+Git Overview
+
+Git es un programa de Control de versiones: Version Control System (VCS sus siglas en ingles) o Sistema de Control de Versiones (SCV sus siglas en español).
+Estos programas o sistemas registran el estado de un archivo -o de un conjunto de archivos- a lo largo del tiempo.
