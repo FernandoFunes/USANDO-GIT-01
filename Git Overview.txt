@@ -5,3 +5,5 @@ Curiosamentre las siglas en ingles -VCS- leidas de derecha a izquierda nos dan l
 Estos programas o sistemas registran el estado de un archivo -o de un conjunto de archivos- a lo largo del tiempo.
 
 Clonando un Repositorio
+
+Información adicional
