@@ -6,4 +6,4 @@ Estos programas o sistemas registran el estado de un archivo -o de un conjunto d
 
 Clonando un Repositorio
 
-Información adicional
+Información adicional par modificar el archivo
